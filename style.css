@@ -1,0 +1,21 @@
+:root {
+  --Dark-Blue: var(#2d314d);
+  --Lime-Green: var(#31d35c);
+  --Bright-Cyan: var(#2bb7da);
+  --Grayish-Blue: var(#9698a6);
+  --Light-Grayish-Blue: var(#f3f4f6);
+  --Very-Light-Gray: var(#fafafa);
+  --White: var(#ffffff);
+}
+* {
+  font-family: "Public Sans", sans-serif; /* Weights: 300, 400, 700 */
+  font-size: 18px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
